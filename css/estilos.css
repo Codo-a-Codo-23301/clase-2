@@ -1,0 +1,30 @@
+* { 
+    margin: 0;    
+}
+body{
+    background: hsl(177, 43%, 92%);
+}
+
+h1{
+    padding: 15px;
+}
+
+.avatar{   
+   height: 200px;
+ 
+}
+div .avatar{
+    margin-top: 10px;
+   
+}
+.container{
+    display: flex;
+    background-color: azure;
+    
+}
+.contenido{
+    padding-left: 15px;
+    padding-top: 150px;
+    max-width: 800px;
+    
+}
